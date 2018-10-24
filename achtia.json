@@ -1,0 +1,3719 @@
+[{
+        "title": "מצגת אח'טיה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.809,
+        "lan": 35.001,
+        "start": 1,
+        "link": "https://prezi.com/b9eh2hl0kz_h/copy-of-map/?utm_campaign=share&utm_medium=copy"
+    },
+    {
+        "title": "אורשלים אל-קודס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 31.788355,
+        "lan": 35.232839,
+        "start": 56122
+    },
+    {
+        "title": "אזראיל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 31.046051,
+        "lan": 34.851612,
+        "start": 73560
+    },
+    {
+        "title": "אזראיל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 31.046051,
+        "lan": 34.851612,
+        "start": 82911
+    },
+    {
+        "title": "אי הקיקלופים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": "",
+        "lan": "",
+        "start": 12061
+    },
+    {
+        "title": "איטליה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 41.87194,
+        "lan": 12.56738,
+        "start": 57969
+    },
+    {
+        "title": "אירופה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 54.52596,
+        "lan": 15.25512,
+        "start": 58821
+    },
+    {
+        "title": "אירופה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 54.52596,
+        "lan": 15.25512,
+        "start": 65065
+    },
+    {
+        "title": "אל-אתיחאד",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 31.966,
+        "lan": 35.099,
+        "start": 120705
+    },
+    {
+        "title": "אל-בהג׳ה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.943,
+        "lan": 35.092,
+        "start": 17658
+    },
+    {
+        "title": "אל-גרמק",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.96565,
+        "lan": 35.38127,
+        "start": 105983
+    },
+    {
+        "title": "אל-מוארס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.40543,
+        "lan": 35.03783,
+        "start": 90590
+    },
+    {
+        "title": "אל-נעאמין",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.8886178,
+        "lan": 35.0952402,
+        "start": 4966
+    },
+    {
+        "title": "אמריקה הלטינית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": -4.44204,
+        "lan": -61.3269,
+        "start": 38358
+    },
+    {
+        "title": "ארבד",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.55696,
+        "lan": 35.84791,
+        "start": 63015
+    },
+    {
+        "title": "ארמונו",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 8,
+        "lat": "",
+        "lan": "",
+        "start": 81263
+    },
+    {
+        "title": "ארצות האסלאם",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": "",
+        "lan": "",
+        "start": 64982
+    },
+    {
+        "title": "ארצות־הברית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 37.09024,
+        "lan": -95.7129,
+        "start": 24055
+    },
+    {
+        "title": "ארצות־הברית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 37.09024,
+        "lan": -95.7129,
+        "start": 24284
+    },
+    {
+        "title": "ארצות־הברית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 37.09024,
+        "lan": -95.7129,
+        "start": 38310
+    },
+    {
+        "title": "ארצות־הברית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 37.09024,
+        "lan": -95.7129,
+        "start": 38394
+    },
+    {
+        "title": "ארצות־הברית",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 37.09024,
+        "lan": -95.7129,
+        "start": 100111
+    },
+    {
+        "title": "ביירות",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 33.89379,
+        "lan": 35.50178,
+        "start": 47476
+    },
+    {
+        "title": "ביירות",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 33.89379,
+        "lan": 35.50178,
+        "start": 84830
+    },
+    {
+        "title": "בית-החולים הממשלתי הישן הקרוי על שמו",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.831,
+        "lan": 34.984,
+        "start": 16275
+    },
+    {
+        "title": "בית-החולים של דוקטור חמזה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.831,
+        "lan": 34.984,
+        "start": 16386
+    },
+    {
+        "title": "בית-שאן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.4971,
+        "lan": 35.49734,
+        "start": 45351
+    },
+    {
+        "title": "בית-שאן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.4971,
+        "lan": 35.49734,
+        "start": 45500
+    },
+    {
+        "title": "בית־הספר סנט לוקס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 28378
+    },
+    {
+        "title": "בית־הספר של הנזירות",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 74591
+    },
+    {
+        "title": "בית־הספר של הנזירות",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 86164
+    },
+    {
+        "title": "בית־הספר של הנזירות",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 93269
+    },
+    {
+        "title": "בית־הספר של הנזירות",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 98987
+    },
+    {
+        "title": "בית־הקברות של משפחת מוראד",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.051,
+        "lan": 34.776,
+        "start": 31252
+    },
+    {
+        "title": "בית־חולים על הכרמל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.7864,
+        "lan": 34.98052,
+        "start": 14160
+    },
+    {
+        "title": "בניין משפחת סווידאן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": "",
+        "lan": "",
+        "start": 28285
+    },
+    {
+        "title": "בר יהודה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.78478,
+        "lan": 35.03108,
+        "start": 44561
+    },
+    {
+        "title": "ברחוב קיבוץ גלויות בחיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.80826,
+        "lan": 35.00596,
+        "start": 62823
+    },
+    {
+        "title": "בריטניה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 55.37805,
+        "lan": -3.43597,
+        "start": 66591
+    },
+    {
+        "title": "ברית המועצות",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 55.755826,
+        "lan": 37.6172999,
+        "start": 66684
+    },
+    {
+        "title": "גדה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 31.94657,
+        "lan": 35.30272,
+        "start": 18063
+    },
+    {
+        "title": "גדה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 31.94657,
+        "lan": 35.30272,
+        "start": 45335
+    },
+    {
+        "title": "גדה המזרחית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 30.585164,
+        "lan": 36.238414,
+        "start": 48345
+    },
+    {
+        "title": "גדה המערבית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 31.94657,
+        "lan": 35.30272,
+        "start": 65564
+    },
+    {
+        "title": "גיא המוזות",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": "",
+        "lat": "",
+        "lan": "",
+        "start": 112244
+    },
+    {
+        "title": "גיא המוזות",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": "",
+        "lan": "",
+        "start": 125363
+    },
+    {
+        "title": "גינת עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81237,
+        "lan": 34.98572,
+        "start": 108302
+    },
+    {
+        "title": "גן הבהאים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81237,
+        "lan": 34.98572,
+        "start": 98692
+    },
+    {
+        "title": "גני הבהאים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81237,
+        "lan": 34.98572,
+        "start": 28252
+    },
+    {
+        "title": "גני הבהאים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.81237,
+        "lan": 34.98572,
+        "start": 70582
+    },
+    {
+        "title": "גני הבהאים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81237,
+        "lan": 34.98572,
+        "start": 90507
+    },
+    {
+        "title": "גנינת עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81237,
+        "lan": 34.98572,
+        "start": 90480
+    },
+    {
+        "title": "גסר אל-זרקא",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.53626,
+        "lan": 34.91157,
+        "start": 8460
+    },
+    {
+        "title": "גשר פז",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.798,
+        "lan": 35.018,
+        "start": 30923
+    },
+    {
+        "title": "גשר פן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.798,
+        "lan": 35.018,
+        "start": 24871
+    },
+    {
+        "title": "גשר רושמיה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.802974,
+        "lan": 35.006267,
+        "start": 24980
+    },
+    {
+        "title": "גשר רושמיה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.802974,
+        "lan": 35.006267,
+        "start": 38243
+    },
+    {
+        "title": "גשר של",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.798,
+        "lan": 35.018,
+        "start": 24856
+    },
+    {
+        "title": "דאלית אל-כרמל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.6938,
+        "lan": 35.05545,
+        "start": 28538
+    },
+    {
+        "title": "דאלית אל-כרמל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.6938,
+        "lan": 35.05545,
+        "start": 32576
+    },
+    {
+        "title": "דטרויט",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 42.33143,
+        "lan": -83.0458,
+        "start": 73598
+    },
+    {
+        "title": "דטרויט",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 42.33143,
+        "lan": -83.0458,
+        "start": 84856
+    },
+    {
+        "title": "דיר יאסין",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 31.786,
+        "lan": 35.178,
+        "start": 62952
+    },
+    {
+        "title": "דנמרק",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": "",
+        "lat": 56.26392,
+        "lan": 9.501785,
+        "start": 70315
+    },
+    {
+        "title": "דרום לבנון",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 33.30772282,
+        "lan": 35.4183256,
+        "start": 69289
+    },
+    {
+        "title": "דרך הדר",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.15171,
+        "lan": 34.88791,
+        "start": 24589
+    },
+    {
+        "title": "דרך הדר הכרמל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 24832
+    },
+    {
+        "title": "דרך הים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.69596,
+        "lan": 34.94587,
+        "start": 44420
+    },
+    {
+        "title": "הגדה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 31.94657,
+        "lan": 35.30272,
+        "start": 47736
+    },
+    {
+        "title": "הגדה המזרחית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 30.585164,
+        "lan": 36.238414,
+        "start": 65771
+    },
+    {
+        "title": "הגשר",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.802974,
+        "lan": 35.006267,
+        "start": 104095
+    },
+    {
+        "title": "הדנובה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 46.32193,
+        "lan": 18.39507,
+        "start": 106083
+    },
+    {
+        "title": "ההימלאיה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 28.59832,
+        "lan": 83.93106,
+        "start": 106004
+    },
+    {
+        "title": "הודו",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 20.59368,
+        "lan": 78.96288,
+        "start": 44075
+    },
+    {
+        "title": "החומה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 93260
+    },
+    {
+        "title": "החומה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 93989
+    },
+    {
+        "title": "החומה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 94033
+    },
+    {
+        "title": "החומה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 95037
+    },
+    {
+        "title": "הים הכספי",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 41.93498,
+        "lan": 50.66895,
+        "start": 43979
+    },
+    {
+        "title": "הירדן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.46708,
+        "lan": 35.56574,
+        "start": 48432
+    },
+    {
+        "title": "הכינרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.82443,
+        "lan": 35.588,
+        "start": 13775
+    },
+    {
+        "title": "הכינרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.82443,
+        "lan": 35.588,
+        "start": 15236
+    },
+    {
+        "title": "הכינרת",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.82443,
+        "lan": 35.588,
+        "start": 105169
+    },
+    {
+        "title": "הכינרת",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.82443,
+        "lan": 35.588,
+        "start": 106014
+    },
+    {
+        "title": "הכינרת",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.82443,
+        "lan": 35.588,
+        "start": 106747
+    },
+    {
+        "title": "הכרמל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 28558
+    },
+    {
+        "title": "הכרמל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 90159
+    },
+    {
+        "title": "הכרמל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 90198
+    },
+    {
+        "title": "הכרמל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 90222
+    },
+    {
+        "title": "הכרמל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 90230
+    },
+    {
+        "title": "הכרמל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 90444
+    },
+    {
+        "title": "הכרמל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 97817
+    },
+    {
+        "title": "הכרמל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 106046
+    },
+    {
+        "title": "הכרמל הצרפתי",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81885,
+        "lan": 34.97521,
+        "start": 20958
+    },
+    {
+        "title": "המדרון",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": "",
+        "lan": "",
+        "start": 95509
+    },
+    {
+        "title": "המדרון הסלעי",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": "",
+        "lan": "",
+        "start": 95327
+    },
+    {
+        "title": "המכון לחקר האטום בדימונה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 31.06942,
+        "lan": 35.03336,
+        "start": 23890
+    },
+    {
+        "title": "המרכז",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 20924
+    },
+    {
+        "title": "המרכז",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 20947
+    },
+    {
+        "title": "הנילוס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 23.55979,
+        "lan": 32.15771,
+        "start": 15065
+    },
+    {
+        "title": "הנילוס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 23.55979,
+        "lan": 32.15771,
+        "start": 15270
+    },
+    {
+        "title": "הנילוס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 23.55979,
+        "lan": 32.15771,
+        "start": 15951
+    },
+    {
+        "title": "הנילוס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 23.55979,
+        "lan": 32.15771,
+        "start": 34123
+    },
+    {
+        "title": "הנמל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.8213072,
+        "lan": 35.0007031,
+        "start": 20935
+    },
+    {
+        "title": "העיר התחתית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81714,
+        "lan": 35.00179,
+        "start": 24666
+    },
+    {
+        "title": "העיר התחתית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81714,
+        "lan": 35.00179,
+        "start": 31348
+    },
+    {
+        "title": "העיר התחתית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.81714,
+        "lan": 35.00179,
+        "start": 45839
+    },
+    {
+        "title": "העיר התחתית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 32.81714,
+        "lan": 35.00179,
+        "start": 69748
+    },
+    {
+        "title": "הצטלבות החלוץ-הנביאים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.81386,
+        "lan": 34.99641,
+        "start": 50226
+    },
+    {
+        "title": "הצטלבות רחוב החלוץ ורחוב הנביאים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81386,
+        "lan": 34.99641,
+        "start": 20853
+    },
+    {
+        "title": "הציונות",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 31.78601,
+        "lan": 34.64249,
+        "start": 101569
+    },
+    {
+        "title": "הקאונטרי-קלאב במבואות תל אביב",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.04506,
+        "lan": 34.77351,
+        "start": 26246
+    },
+    {
+        "title": "הר הכרמל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 28088
+    },
+    {
+        "title": "הרצל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.8082976,
+        "lan": 35.0002799,
+        "start": 44571
+    },
+    {
+        "title": "ואדי נסנאס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81607,
+        "lan": 34.99604,
+        "start": 32517
+    },
+    {
+        "title": "ואדי נסנאס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81607,
+        "lan": 34.99604,
+        "start": 32826
+    },
+    {
+        "title": "ואדי נסנאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81607,
+        "lan": 34.99604,
+        "start": 98957
+    },
+    {
+        "title": "ואדי נסנאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81607,
+        "lan": 34.99604,
+        "start": 101148
+    },
+    {
+        "title": "ואדי נסנאס",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 32.81607,
+        "lan": 34.99604,
+        "start": 121545
+    },
+    {
+        "title": "ואדי נסנאס",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 32.81607,
+        "lan": 34.99604,
+        "start": 121726
+    },
+    {
+        "title": "ואדי סאליב",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81032,
+        "lan": 35.001,
+        "start": 30867
+    },
+    {
+        "title": "ואדי עארא",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.47091,
+        "lan": 35.03055,
+        "start": 44305
+    },
+    {
+        "title": "ואדי עבקר",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": "",
+        "lat": "",
+        "lan": "",
+        "start": 112233
+    },
+    {
+        "title": "ואדי עבקר",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": "",
+        "lan": "",
+        "start": 125351
+    },
+    {
+        "title": "ואדי רושמיה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.7945471,
+        "lan": 35.0050809,
+        "start": 24945
+    },
+    {
+        "title": "ואדי רושמיה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.7945471,
+        "lan": 35.0050809,
+        "start": 30854
+    },
+    {
+        "title": "וואדי",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.815619,
+        "lan": 34.994,
+        "start": 101546
+    },
+    {
+        "title": "וואדי נסנאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81607,
+        "lan": 34.99604,
+        "start": 90166
+    },
+    {
+        "title": "וואדי נסנאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81607,
+        "lan": 34.99604,
+        "start": 98728
+    },
+    {
+        "title": "וואדי נסנאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81607,
+        "lan": 34.99604,
+        "start": 101435
+    },
+    {
+        "title": "חאן יונס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 31.3462,
+        "lan": 34.304,
+        "start": 62988
+    },
+    {
+        "title": "חומה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 96848
+    },
+    {
+        "title": "חומה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 99669
+    },
+    {
+        "title": "חומת הנזירות",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 93675
+    },
+    {
+        "title": "חומת הנזירות",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81691,
+        "lan": 34.9922,
+        "start": 102348
+    },
+    {
+        "title": "חוף הים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 31.99692,
+        "lan": 34.73168,
+        "start": 90206
+    },
+    {
+        "title": "חוף הים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 31.99692,
+        "lan": 34.73168,
+        "start": 90399
+    },
+    {
+        "title": "חוף הים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 31.99692,
+        "lan": 34.73168,
+        "start": 95407
+    },
+    {
+        "title": "חוף הצפוני של חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.82430049,
+        "lan": 34.95585505,
+        "start": 107460
+    },
+    {
+        "title": "חופה הדרומי של חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.80614135,
+        "lan": 34.95592687,
+        "start": 106975
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": "",
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 666
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": "",
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 688
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": "",
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 1171
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": "",
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 1181
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 3886
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 4302
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 8163
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 8474
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 10648
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 14097
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 16332
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 16799
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 24561
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 25058
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 26376
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 28170
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 44403
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 44472
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 45568
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 55461
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 59029
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 63245
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 64185
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 65881
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 69339
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 69518
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 71200
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 73118
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 74395
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 87217
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 88632
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 90151
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 11,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 114054
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 120364
+    },
+    {
+        "title": "חיפה",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 125273
+    },
+    {
+        "title": "חיפה העלית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 24601
+    },
+    {
+        "title": "חיפה התחתית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81714,
+        "lan": 35.00179,
+        "start": 24648
+    },
+    {
+        "title": "חיפה התחתית",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81714,
+        "lan": 35.00179,
+        "start": 98823
+    },
+    {
+        "title": "חיפה עילית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 60684
+    },
+    {
+        "title": "חיפה עלית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79359,
+        "lan": 34.95757,
+        "start": 30792
+    },
+    {
+        "title": "חיפה תחתית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81714,
+        "lan": 35.00179,
+        "start": 30803
+    },
+    {
+        "title": "חיפה תחתית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.81714,
+        "lan": 35.00179,
+        "start": 60697
+    },
+    {
+        "title": "חסן שוכרי",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.81325,
+        "lan": 34.99913,
+        "start": 44588
+    },
+    {
+        "title": "טאבעה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.8735064,
+        "lan": 35.5491321,
+        "start": 105148
+    },
+    {
+        "title": "טאבעה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.8735064,
+        "lan": 35.5491321,
+        "start": 106734
+    },
+    {
+        "title": "טאבעה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.8735064,
+        "lan": 35.5491321,
+        "start": 109551
+    },
+    {
+        "title": "טאבעה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.8735064,
+        "lan": 35.5491321,
+        "start": 109681
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 11816
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 13467
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 13578
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 13760
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 13866
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 14216
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 14715
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 15000
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 15430
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 23424
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 23459
+    },
+    {
+        "title": "טבריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.79586,
+        "lan": 35.53097,
+        "start": 23770
+    },
+    {
+        "title": "טברסטאן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": "",
+        "lan": "",
+        "start": 13741
+    },
+    {
+        "title": "טברסטאן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": "",
+        "lan": "",
+        "start": 14230
+    },
+    {
+        "title": "טברסטאן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": "",
+        "lan": "",
+        "start": 23434
+    },
+    {
+        "title": "טורעאן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.77514,
+        "lan": 35.37834,
+        "start": 14832
+    },
+    {
+        "title": "טריפולי",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.88721,
+        "lan": 13.19134,
+        "start": 73088
+    },
+    {
+        "title": "טריפולי",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.88721,
+        "lan": 13.19134,
+        "start": 73235
+    },
+    {
+        "title": "טריפולי",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.88721,
+        "lan": 13.19134,
+        "start": 84821
+    },
+    {
+        "title": "ים אל-חזר",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": "",
+        "lan": "",
+        "start": 43967
+    },
+    {
+        "title": "ים קולזום",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": "",
+        "lan": "",
+        "start": 43992
+    },
+    {
+        "title": "ים־סוף",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 20.28023,
+        "lan": 38.51257,
+        "start": 44003
+    },
+    {
+        "title": "ימה של סין",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 35.86166,
+        "lan": 104.1954,
+        "start": 9148
+    },
+    {
+        "title": "ימה של סין",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 35.86166,
+        "lan": 104.1954,
+        "start": 43937
+    },
+    {
+        "title": "ימה של תימן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 15.55273,
+        "lan": 48.51639,
+        "start": 44013
+    },
+    {
+        "title": "ימם של הרומאים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": "",
+        "lan": "",
+        "start": 43950
+    },
+    {
+        "title": "ירושלים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 31.76832,
+        "lan": 35.21371,
+        "start": 74246
+    },
+    {
+        "title": "ירושלים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 31.76832,
+        "lan": 35.21371,
+        "start": 74436
+    },
+    {
+        "title": "ישראל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 31.04605,
+        "lan": 34.85161,
+        "start": 14757
+    },
+    {
+        "title": "ישראל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 31.04605,
+        "lan": 34.85161,
+        "start": 24041
+    },
+    {
+        "title": "ישראל",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 31.04605,
+        "lan": 34.85161,
+        "start": 86953
+    },
+    {
+        "title": "כביש החוף",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.77763525,
+        "lan": 34.95609048,
+        "start": 26231
+    },
+    {
+        "title": "כביש החוף",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.77763525,
+        "lan": 34.95609048,
+        "start": 44389
+    },
+    {
+        "title": "כביש הישן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.77530992,
+        "lan": 34.96313813,
+        "start": 8420
+    },
+    {
+        "title": "כווית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 29.31166,
+        "lan": 47.48177,
+        "start": 14633
+    },
+    {
+        "title": "כותל מערבי",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 31.77672,
+        "lan": 35.23451,
+        "start": 98741
+    },
+    {
+        "title": "כיכר אל- חמרה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 34.999711,
+        "lan": 32.8175561,
+        "start": 28631
+    },
+    {
+        "title": "כיכר אל-בורג",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 34.9993996,
+        "lan": 32.8138468,
+        "start": 88507
+    },
+    {
+        "title": "כיכר אל-חנאטיר",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": "",
+        "lan": "",
+        "start": 28791
+    },
+    {
+        "title": "כיכר המלך פייסל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 35.000995,
+        "lan": 32.810317,
+        "start": 25668
+    },
+    {
+        "title": "כיכר פריס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81756,
+        "lan": 34.99971,
+        "start": 28661
+    },
+    {
+        "title": "כינרת",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.82443,
+        "lan": 35.588,
+        "start": 110557
+    },
+    {
+        "title": "כינרת",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.82443,
+        "lan": 35.588,
+        "start": 111963
+    },
+    {
+        "title": "כלא שכם",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.22267,
+        "lan": 35.26215,
+        "start": 28046
+    },
+    {
+        "title": "כפר-קאסם",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.11409,
+        "lan": 34.97277,
+        "start": 62964
+    },
+    {
+        "title": "כפר־יאסיף",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.95203,
+        "lan": 35.16,
+        "start": 18378
+    },
+    {
+        "title": "כפר־כנא",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.7482,
+        "lan": 35.34384,
+        "start": 13608
+    },
+    {
+        "title": "כרמל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 25096
+    },
+    {
+        "title": "לבנון",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 33.85472,
+        "lan": 35.86229,
+        "start": 73106
+    },
+    {
+        "title": "לונדון",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 51.50735,
+        "lan": -0.12776,
+        "start": 36080
+    },
+    {
+        "title": "לונדון",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 51.50735,
+        "lan": -0.12776,
+        "start": 48083
+    },
+    {
+        "title": "ליד עץ",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 8,
+        "lat": "",
+        "lan": "",
+        "start": 81289
+    },
+    {
+        "title": "לפנים קרמאן, דיק וסלטי",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": "",
+        "lan": "",
+        "start": 31031
+    },
+    {
+        "title": "לרנקה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 34.90025,
+        "lan": 33.62317,
+        "start": 26555
+    },
+    {
+        "title": "מדינות ערב",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": "",
+        "lan": "",
+        "start": 65159
+    },
+    {
+        "title": "מדרגות המרוניטים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.81687,
+        "lan": 34.99909,
+        "start": 60305
+    },
+    {
+        "title": "מדרגות המרוניטים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.81687,
+        "lan": 34.99909,
+        "start": 60710
+    },
+    {
+        "title": "מדרגות המרוניטים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.81687,
+        "lan": 34.99909,
+        "start": 60861
+    },
+    {
+        "title": "מדרגות המרוניטים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.81687,
+        "lan": 34.99909,
+        "start": 61210
+    },
+    {
+        "title": "מוזמביק",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": -18.6657,
+        "lan": 35.52956,
+        "start": 44102
+    },
+    {
+        "title": "מוסקבה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 55.75583,
+        "lan": 37.6173,
+        "start": 22337
+    },
+    {
+        "title": "מוסקבה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 55.75583,
+        "lan": 37.6173,
+        "start": 56143
+    },
+    {
+        "title": "מועדון העם",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": "",
+        "lan": "",
+        "start": 66921
+    },
+    {
+        "title": "מורדות הכרמל המערביים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 28412
+    },
+    {
+        "title": "מורדות הכרמל הצפוני",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.74273,
+        "lan": 35.04839,
+        "start": 70595
+    },
+    {
+        "title": "מזרח ירושלים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 31.76832,
+        "lan": 35.21371,
+        "start": 35464
+    },
+    {
+        "title": "מחסני דובק",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": "",
+        "lan": "",
+        "start": 31017
+    },
+    {
+        "title": "מכה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 21.38908,
+        "lan": 39.85791,
+        "start": 48035
+    },
+    {
+        "title": "מסעדת אל-עבד",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 31.80713,
+        "lan": 35.1081,
+        "start": 32702
+    },
+    {
+        "title": "מפרץ עדן",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 12.53312,
+        "lan": 47.92236,
+        "start": 106115
+    },
+    {
+        "title": "מצרים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 26.82055,
+        "lan": 30.8025,
+        "start": 48511
+    },
+    {
+        "title": "מצרים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 26.82055,
+        "lan": 30.8025,
+        "start": 48595
+    },
+    {
+        "title": "מצרים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 26.82055,
+        "lan": 30.8025,
+        "start": 53582
+    },
+    {
+        "title": "מרכז האמריקאי הסודי לחקר החלל בקפ-קנוראל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 28.48867,
+        "lan": -80.5728,
+        "start": 22748
+    },
+    {
+        "title": "נאצרה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 44151
+    },
+    {
+        "title": "נחאלין",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 31.68561,
+        "lan": 35.12036,
+        "start": 62999
+    },
+    {
+        "title": "נחל נעמן",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.88862,
+        "lan": 35.09524,
+        "start": 4983
+    },
+    {
+        "title": "ניו-יורק",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 40.71278,
+        "lan": -74.006,
+        "start": 84846
+    },
+    {
+        "title": "נמל התעופה לוד",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.00553,
+        "lan": 34.88541,
+        "start": 72278
+    },
+    {
+        "title": "נמל חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.82131,
+        "lan": 35.0007,
+        "start": 73050
+    },
+    {
+        "title": "נמל סופאלה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": "",
+        "lan": "",
+        "start": 44090
+    },
+    {
+        "title": "נמלה של חיפה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.79405,
+        "lan": 34.98957,
+        "start": 107066
+    },
+    {
+        "title": "נצרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 13627
+    },
+    {
+        "title": "נצרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 14800
+    },
+    {
+        "title": "נצרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 25635
+    },
+    {
+        "title": "נצרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 44158
+    },
+    {
+        "title": "נצרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 44292
+    },
+    {
+        "title": "נצרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 45819
+    },
+    {
+        "title": "נצרת",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 125547
+    },
+    {
+        "title": "סוריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 34.80208,
+        "lan": 38.99682,
+        "start": 13524
+    },
+    {
+        "title": "סוריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 34.80208,
+        "lan": 38.99682,
+        "start": 14370
+    },
+    {
+        "title": "סוריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 34.80208,
+        "lan": 38.99682,
+        "start": 14656
+    },
+    {
+        "title": "סוריה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 34.80208,
+        "lan": 38.99682,
+        "start": 14734
+    },
+    {
+        "title": "סילת אל-דהר",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.3175,
+        "lan": 35.18723,
+        "start": 18046
+    },
+    {
+        "title": "סמוע",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 31.39861,
+        "lan": 35.06529,
+        "start": 63008
+    },
+    {
+        "title": "סמטת אל-חרירי",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 32.81663,
+        "lan": 34.993,
+        "start": 120176
+    },
+    {
+        "title": "סמסת אל-חרירי",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81663,
+        "lan": 34.993,
+        "start": 101590
+    },
+    {
+        "title": "סעודיה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 23.88594,
+        "lan": 45.07916,
+        "start": 14624
+    },
+    {
+        "title": "סעודיה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 23.88594,
+        "lan": 45.07916,
+        "start": 73403
+    },
+    {
+        "title": "סעודיה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 23.88594,
+        "lan": 45.07916,
+        "start": 84838
+    },
+    {
+        "title": "עארה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.50518,
+        "lan": 35.07743,
+        "start": 44333
+    },
+    {
+        "title": "עבילין",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.8218,
+        "lan": 35.19012,
+        "start": 105338
+    },
+    {
+        "title": "עוספיה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.72074,
+        "lan": 35.05909,
+        "start": 28530
+    },
+    {
+        "title": "עיר הנחושת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": "",
+        "lan": "",
+        "start": 39544
+    },
+    {
+        "title": "עיר הנחושת המכושפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": "",
+        "lan": "",
+        "start": 39130
+    },
+    {
+        "title": "עיר התחתית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81714,
+        "lan": 35.00179,
+        "start": 30975
+    },
+    {
+        "title": "עיראק",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 33.22319,
+        "lan": 43.67929,
+        "start": 11732
+    },
+    {
+        "title": "עכו",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.93305,
+        "lan": 35.08268,
+        "start": 4325
+    },
+    {
+        "title": "עכו",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.93305,
+        "lan": 35.08268,
+        "start": 8158
+    },
+    {
+        "title": "עכו",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.93305,
+        "lan": 35.08268,
+        "start": 16926
+    },
+    {
+        "title": "עכו",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.93305,
+        "lan": 35.08268,
+        "start": 17674
+    },
+    {
+        "title": "עכו",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.93305,
+        "lan": 35.08268,
+        "start": 70625
+    },
+    {
+        "title": "עכו",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.93305,
+        "lan": 35.08268,
+        "start": 70649
+    },
+    {
+        "title": "עתלית",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.69088,
+        "lan": 34.94291,
+        "start": 106966
+    },
+    {
+        "title": "עתלית",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.69088,
+        "lan": 34.94291,
+        "start": 108439
+    },
+    {
+        "title": "פולניה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 51.919438,
+        "lan": 19.145136,
+        "start": 14127
+    },
+    {
+        "title": "פינת החלוץ והנביאים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.81386,
+        "lan": 34.99641,
+        "start": 60231
+    },
+    {
+        "title": "פלסטיין",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 31.95216,
+        "lan": 35.23315,
+        "start": 73574
+    },
+    {
+        "title": "פלסטין",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 31.95216,
+        "lan": 35.23315,
+        "start": 44127
+    },
+    {
+        "title": "פלסטין",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 31.95216,
+        "lan": 35.23315,
+        "start": 67585
+    },
+    {
+        "title": "פלסטין",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 31.95216,
+        "lan": 35.23315,
+        "start": 82903
+    },
+    {
+        "title": "פרדסו של אבו-פריד",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": "",
+        "lan": "",
+        "start": 95384
+    },
+    {
+        "title": "פרדסי אל-בסה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.30501,
+        "lan": 34.91173,
+        "start": 18330
+    },
+    {
+        "title": "פריס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 48.85661,
+        "lan": 2.352222,
+        "start": 36201
+    },
+    {
+        "title": "פריס",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 48.85661,
+        "lan": 2.352222,
+        "start": 48092
+    },
+    {
+        "title": "פרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": -31.9505,
+        "lan": 115.8605,
+        "start": 15073
+    },
+    {
+        "title": "פרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": -31.9505,
+        "lan": 115.8605,
+        "start": 15282
+    },
+    {
+        "title": "פרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": -31.9505,
+        "lan": 115.8605,
+        "start": 15963
+    },
+    {
+        "title": "צומת רחוב הגיבורים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.80177,
+        "lan": 35.01047,
+        "start": 38219
+    },
+    {
+        "title": "צומת רחוב הגיבורים (שהניסו את תושבי ואדי רושמיה וואדי סאליב) ורחוב ישראל בר יהודה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.80177,
+        "lan": 35.01047,
+        "start": 30816
+    },
+    {
+        "title": "צומת רחוב הנביאים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 31.78373,
+        "lan": 35.22226,
+        "start": 38197
+    },
+    {
+        "title": "צומת רחוב ישראל בר יהודה ורחוב הגיבורים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.80177,
+        "lan": 35.01047,
+        "start": 45853
+    },
+    {
+        "title": "ציון",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 37.2982,
+        "lan": -113.026,
+        "start": 27287
+    },
+    {
+        "title": "צילון",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 7.873054,
+        "lan": 80.7718,
+        "start": 45320
+    },
+    {
+        "title": "קאנטרי קלאב במבואות תל אביב",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.04506,
+        "lan": 34.77351,
+        "start": 32970
+    },
+    {
+        "title": "קביה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": "",
+        "lan": "",
+        "start": 62975
+    },
+    {
+        "title": "קפריסין",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 35.12641,
+        "lan": 33.42986,
+        "start": 14605
+    },
+    {
+        "title": "קפריסין",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 35.12641,
+        "lan": 33.42986,
+        "start": 26566
+    },
+    {
+        "title": "קריית אליעזר",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.82729,
+        "lan": 34.98149,
+        "start": 90633
+    },
+    {
+        "title": "ראש הנקרה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 33.08609,
+        "lan": 35.11346,
+        "start": 14590
+    },
+    {
+        "title": "רבת־עמון",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 31.94537,
+        "lan": 35.92837,
+        "start": 26940
+    },
+    {
+        "title": "רחוב אום",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": "",
+        "lan": "",
+        "start": 27577
+    },
+    {
+        "title": "רחוב אל-גבל",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 34.123,
+        "lan": 35.65193,
+        "start": 27552
+    },
+    {
+        "title": "רחוב אל-מוחלס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": "",
+        "lan": "",
+        "start": 101767
+    },
+    {
+        "title": "רחוב אל-נאצרה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": "",
+        "lan": "",
+        "start": 25620
+    },
+    {
+        "title": "רחוב אלנבי",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.06765,
+        "lan": 34.7712,
+        "start": 27335
+    },
+    {
+        "title": "רחוב בר יהודה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.77502,
+        "lan": 35.04251,
+        "start": 31058
+    },
+    {
+        "title": "רחוב הגיבורים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.43896,
+        "lan": 34.92365,
+        "start": 24905
+    },
+    {
+        "title": "רחוב ההר",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": "",
+        "lan": "",
+        "start": 101559
+    },
+    {
+        "title": "רחוב הוואדי",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 31.80319,
+        "lan": 35.11495,
+        "start": 101611
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 4257
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 22898
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 25000
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 25440
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 33094
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 38038
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 38184
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 38665
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 41181
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 45556
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 62395
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 62664
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 63233
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 83051
+    },
+    {
+        "title": "רחוב החלוץ",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 32.810769,
+        "lan": 34.999055,
+        "start": 124642
+    },
+    {
+        "title": "רחוב הכרמליט",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.82724,
+        "lan": 34.97013,
+        "start": 31555
+    },
+    {
+        "title": "רחוב המלכים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.07276,
+        "lan": 34.89604,
+        "start": 31375
+    },
+    {
+        "title": "רחוב המלכים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.07276,
+        "lan": 34.89604,
+        "start": 98850
+    },
+    {
+        "title": "רחוב הנביאים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 31.78373,
+        "lan": 35.22226,
+        "start": 4269
+    },
+    {
+        "title": "רחוב הנביאים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 31.78373,
+        "lan": 35.22226,
+        "start": 60278
+    },
+    {
+        "title": "רחוב העצמאות",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81977,
+        "lan": 34.99846,
+        "start": 31395
+    },
+    {
+        "title": "רחוב העצמאות",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81977,
+        "lan": 34.99846,
+        "start": 31715
+    },
+    {
+        "title": "רחוב העצמאות",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81977,
+        "lan": 34.99846,
+        "start": 32376
+    },
+    {
+        "title": "רחוב העצמאות",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81977,
+        "lan": 34.99846,
+        "start": 98869
+    },
+    {
+        "title": "רחוב הציונות",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 31.78601,
+        "lan": 34.64249,
+        "start": 27625
+    },
+    {
+        "title": "רחוב חורי",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81685,
+        "lan": 34.99544,
+        "start": 27323
+    },
+    {
+        "title": "רחוב חטיבת גולני",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.80848,
+        "lan": 35.00762,
+        "start": 25718
+    },
+    {
+        "title": "רחוב י.ל. פרץ",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.05934,
+        "lan": 34.77567,
+        "start": 101797
+    },
+    {
+        "title": "רחוב יונה הנביא",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.07231,
+        "lan": 34.76761,
+        "start": 31532
+    },
+    {
+        "title": "רחוב ישראל בר יהודה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": "",
+        "lan": "",
+        "start": 25646
+    },
+    {
+        "title": "רחוב נצרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 30907
+    },
+    {
+        "title": "רחוב נצרת",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 32.69964,
+        "lan": 35.30355,
+        "start": 69894
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 72100
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 73835
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 74570
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 84810
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 84889
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 86251
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 87446
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 90386
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 9,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 93618
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 100707
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 101480
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 101876
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 102467
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 112143
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 11,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 118513
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 119080
+    },
+    {
+        "title": "רחוב עבאס",
+        "type": "PLACE",
+        "notebook": 3,
+        "chapter": 12,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 119543
+    },
+    {
+        "title": "רחוב עיראק",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 33.22319,
+        "lan": 43.67929,
+        "start": 66865
+    },
+    {
+        "title": "רחוב עיראק",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 33.22319,
+        "lan": 43.67929,
+        "start": 67914
+    },
+    {
+        "title": "רחוב עיראק",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 33.22319,
+        "lan": 43.67929,
+        "start": 98753
+    },
+    {
+        "title": "רחוב על שמו של עבאס",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.81625,
+        "lan": 34.98715,
+        "start": 71991
+    },
+    {
+        "title": "רחוב צהיון",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.818,
+        "lan": 34.99565,
+        "start": 27270
+    },
+    {
+        "title": "רחוב קיבוץ גלויות",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": "",
+        "lan": "",
+        "start": 66883
+    },
+    {
+        "title": "רחוב קיסריה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81601,
+        "lan": 34.9954,
+        "start": 101694
+    },
+    {
+        "title": "רחוב שבתאי לוי",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.81406,
+        "lan": 34.99363,
+        "start": 101842
+    },
+    {
+        "title": "רפח",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": "",
+        "lan": "",
+        "start": 62982
+    },
+    {
+        "title": "שבתאי לוי",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.80577,
+        "lan": 34.99386,
+        "start": 44577
+    },
+    {
+        "title": "שדרות הציונות",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 3,
+        "lat": 32.81435,
+        "lan": 34.98578,
+        "start": 44599
+    },
+    {
+        "title": "שוק השאמים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": "",
+        "lan": "",
+        "start": 69325
+    },
+    {
+        "title": "שכם",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.22267,
+        "lan": 35.26215,
+        "start": 74405
+    },
+    {
+        "title": "של",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.798,
+        "lan": 35.018,
+        "start": 30939
+    },
+    {
+        "title": "שפך רחוב החלוץ לרחוב הנביאים",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81386,
+        "lan": 34.99641,
+        "start": 16769
+    },
+    {
+        "title": "שפרעם",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.80577,
+        "lan": 35.16997,
+        "start": 106324
+    },
+    {
+        "title": "תחנת המשטרה הראשית של מחוז חיפה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 5,
+        "lat": 32.80442,
+        "lan": 35.01089,
+        "start": 61157
+    },
+    {
+        "title": "תחנת הרכבת החיגאזית",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81119127,
+        "lan": 35.00669003,
+        "start": 25690
+    },
+    {
+        "title": "תחנת הרכבת הישנה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.81119127,
+        "lan": 35.00669003,
+        "start": 31316
+    },
+    {
+        "title": "תחנת הרכבת הישנה",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 6,
+        "lat": 32.81119127,
+        "lan": 35.00669003,
+        "start": 69834
+    },
+    {
+        "title": "תל אל-רביע",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.0853,
+        "lan": 34.78177,
+        "start": 26097
+    },
+    {
+        "title": "תל אל-רביע",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.0853,
+        "lan": 34.78177,
+        "start": 26203
+    },
+    {
+        "title": "תל הדגים",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.82525,
+        "lan": 34.95562,
+        "start": 98776
+    },
+    {
+        "title": "תל שקמונה",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 10,
+        "lat": 32.82525,
+        "lan": 34.95562,
+        "start": 98794
+    },
+    {
+        "title": "תל-אביב",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 1,
+        "lat": 32.0853,
+        "lan": 34.78177,
+        "start": 4344
+    },
+    {
+        "title": "תל-אביב",
+        "type": "PLACE",
+        "notebook": 1,
+        "chapter": 2,
+        "lat": 32.0853,
+        "lan": 34.78177,
+        "start": 16935
+    },
+    {
+        "title": "תל-אביב",
+        "type": "PLACE",
+        "notebook": 2,
+        "chapter": 7,
+        "lat": 32.0853,
+        "lan": 34.78177,
+        "start": 74162
+    }
+]

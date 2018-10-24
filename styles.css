@@ -1,0 +1,219 @@
+body {
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    font-family: 'Assistant', sans-serif;
+    text-align: right;
+    background-color: black;
+}
+
+#map {
+    position: absolute;
+    top: 100px;
+    bottom: 0px;
+    width: 100%;
+}
+
+.map-overlay {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    color: white;
+    background-color: black;
+    z-index: 100;
+}
+
+.map-overlay .map-overlay-inner {
+    xbackground-color: #fff;
+    xbox-shadow: 0 1px 2px rgba(0, 0, 0, 0.20);
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.map-overlay h2 {
+    line-height: 24px;
+    display: block;
+    margin: 0 0 10px;
+}
+
+.map-overlay .legend .bar {
+    height: 10px;
+    width: 100%;
+    xbackground: linear-gradient(to right, #FCA107, #7F3121);
+}
+
+.map-overlay input {
+    background-color: transparent;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    margin: 0;
+    cursor: ew-resize;
+}
+
+#layer-toggler {
+    position: absolute;
+    left: 5px;
+    top: 105px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid #cecece;
+    z-index: 100;
+    width: 200px;
+}
+
+#layer-toggler-inner>div>input[type='checkbox'] {
+    margin-left: 10px;
+}
+
+#layer-toggler-inner {
+    padding: 5px;
+}
+
+#layer-toggler .title {
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+
+#values {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mapboxgl-popup-content {
+    max-width: 450px;
+    line-height: 1.5;
+    box-shadow: 0px 0px 10px 0px #949494;
+}
+
+.header {
+    padding: 10px;
+    xposition: absolute;
+    z-index: 10;
+    text-align: left;
+    xleft: 5px;
+    xtop: 5px;
+    display: flex;
+    justify-content: space-between;
+    xwidth: 200px;
+    color: white
+}
+
+.header .logo {
+    text-align: justify;
+}
+
+.header .title {
+    font-weight: bold;
+}
+
+.header .sub-title {
+    font-size: 12px;
+}
+
+.header .logo img {
+    width: 70px;
+}
+
+input[type=range] {
+    -webkit-appearance: none;
+    margin: 18px 0;
+    width: 100%;
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    animate: 0.2s;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    background: #3071a9;
+    border-radius: 1.3px;
+    border: 0.2px solid #010101;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    border: 1px solid #000000;
+    height: 36px;
+    width: 16px;
+    border-radius: 3px;
+    background: #ffffff;
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -14px;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #367ebd;
+}
+
+input[type=range]::-moz-range-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    animate: 0.2s;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    background: #3071a9;
+    border-radius: 1.3px;
+    border: 0.2px solid #010101;
+}
+
+input[type=range]::-moz-range-thumb {
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    border: 1px solid #000000;
+    height: 36px;
+    width: 16px;
+    border-radius: 3px;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+input[type=range]::-ms-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    animate: 0.2s;
+    background: transparent;
+    border-color: transparent;
+    border-width: 16px 0;
+    color: transparent;
+}
+
+input[type=range]::-ms-fill-lower {
+    background: #2a6495;
+    border: 0.2px solid #010101;
+    border-radius: 2.6px;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+
+input[type=range]::-ms-fill-upper {
+    background: #3071a9;
+    border: 0.2px solid #010101;
+    border-radius: 2.6px;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+
+input[type=range]::-ms-thumb {
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    border: 1px solid #000000;
+    height: 36px;
+    width: 16px;
+    border-radius: 3px;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+input[type=range]:focus::-ms-fill-lower {
+    background: #3071a9;
+}
+
+input[type=range]:focus::-ms-fill-upper {
+    background: #367ebd;
+}

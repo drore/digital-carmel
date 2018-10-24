@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1455162818000,
+    "url": "http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2015-01-01&endtime=2015-12-31&minmagnitude=6",
+    "title": "USGS Earthquakes",
+    "status": 200,
+    "api": "1.1.1",
+    "count": 156
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title":"Sample title",
+        "time": 1420607227510,
+        "content":"This is a sample content",
+        "category":"event",
+        "imageURL":"https://guyshachar.com/content/heb/wp-content/blogs.dir/2/files/haifa-infrastructure-tunnels/Haifa_Infrastructure_Tunnels_P1360358.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9918, 32.7919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title":"Sample title 2",
+        "time": 1430708287510,
+        "content":"This is a sample content",
+        "category":"event",
+        "imageURL":"https://guyshachar.com/content/heb/wp-content/blogs.dir/2/files/haifa-infrastructure-tunnels/Haifa_Infrastructure_Tunnels_P1360358.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9312, 32.7414
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    -178.7298,
+    -55.755,
+    5,
+    179.1278,
+    59.8935,
+    664
+  ]
+}
